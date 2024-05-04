@@ -8,4 +8,5 @@ public class A {
     private int c;
     private int d;
     // Hello world
+    // Hello world 2
 }
